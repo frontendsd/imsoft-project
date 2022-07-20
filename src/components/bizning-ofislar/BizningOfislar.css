@@ -1,0 +1,40 @@
+.office {
+    flex-grow: 1;
+}
+
+.office__title {
+    font-weight: 600;
+    font-size: 28px;
+    line-height: 34px;
+    letter-spacing: -0.04em;
+    color: #08080A;
+    margin-top: 60px;
+    margin-bottom: 28px;
+}
+
+.office__title span {
+    font-weight: 400;
+}
+
+.office__table {
+    margin-bottom: 177px;
+}
+
+.office__tr {
+    background-color: #2C3E50;
+    color: #fff;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 24px;
+}
+
+.office__tr .office__td img {
+    margin-right: 11px;
+}
+
+.table__row {
+    background: #FFFFFF;
+    /* color: #E9ECF0; */
+}
+
+

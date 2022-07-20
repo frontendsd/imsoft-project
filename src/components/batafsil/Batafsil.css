@@ -1,0 +1,259 @@
+.carusel__info {
+    /* display: flex; */
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(600px,1fr));
+    width: 100%;
+}
+
+.carusel__left {
+    width: 80%;
+}
+
+.carusel__right {
+    width: 80%;
+    margin-top: 90px;
+}
+
+.carusel__right-title {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px,1fr));
+}
+
+.carusel__right-head {
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 39px;
+    color: #000000;
+    margin-bottom: 20px;
+}
+
+.carusel__right-title span{
+    display: flex;
+    align-items: center;
+    justify-content: end;
+}
+
+.carusel__right-title span img {
+    width: 22px;
+    margin-right: 5px;
+}
+
+.carusel__right-info {
+    width: 438px;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+    color: #2C3E50;
+    margin-bottom: 44px;   
+}
+
+.carusel__right-color-title {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+    color: #2C3E50;
+    margin-bottom: 6px;
+}
+
+.carusel__right-color {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px,1fr));
+    text-align: center;
+    gap: 20px;
+}
+
+
+.carusel__black {
+    border: 2px solid #2C3E50;
+    border-radius: 15px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 10px 0;
+    cursor: pointer;
+}
+
+.black {
+    text-align: center;
+    width: 26px;
+    height: 26px;
+    border-radius: 50%;
+    background-color: #000000;
+}
+
+.carusel__white {
+    border: 2px solid #2C3E50;
+    border-radius: 15px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    padding: 10px 0;
+}
+
+.white {
+    text-align: center;
+    width: 26px;
+    height: 26px;
+    border-radius: 50%;
+    background-color: #DCDCDC;
+}
+
+.table {
+    border: 2px solid #939EB4;
+    width: 170px;
+    margin-top: 30px;
+    padding-top: 9px;
+    padding-bottom: 9px;
+}
+
+.table .incr {
+    color: #939EB4;
+    cursor: pointer;
+    font-size: 40px;
+}
+
+.table .decr {
+    color: #939EB4;
+    cursor: pointer;
+    font-size: 30px;
+}
+
+.table .table__number {
+    cursor: pointer;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+    color: #2C3E50;
+} 
+
+.price {
+    display: block;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 39px;
+    color: #2C3E50;
+    padding-top: 30px;
+}
+
+.price .price-aksiya {
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 27px;
+    text-decoration-line: line-through;
+    color: #939EB4;
+}
+
+.korzinka__btn {
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 20px;
+    color: #FFFFFF;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    background: #2C3E50;
+    border-radius: 10px;
+    padding: 18px 39%;
+    margin-top: 24px;
+    margin-bottom: 94px;
+    border: 2px solid #2C3E50;
+    transition: 0.3s ease;
+}
+
+.korzinka__btn:hover {
+    border: 2px solid #2C3E50;
+    background-color: #fff;
+    color: #2C3E50;
+}
+
+.korzinka__btn:active {
+    border: 2px solid #2C3E50;
+    background-color: #2C3E50;
+    color: #fff;
+    opacity: 0.6;
+}
+
+
+.batafsil__btn {
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    border: none;
+    outline: none;
+    text-align: center;
+    padding: 17px 85px;
+    background: #2C3E50;
+    border-radius: 25px;
+    cursor: pointer;
+    margin-top: 20px;
+    margin-bottom: 100px;
+    border: 2px solid #2C3E50;
+    transition: 0.3s ease;
+}
+
+.batafsil__link {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    color: #fff;
+}
+
+.batafsil-tavsif {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(600px,1fr));
+    align-items: center;
+    background: #F2F2F2;
+    border-radius: 15px;
+    margin-right: 10px;
+    padding: 0px 14px 0px 0;
+    margin-bottom: 50px;
+}
+
+.batafsil {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+    text-align: center;
+    color: #2C3E50;
+    background: #FFFFFF;
+    border-radius: 10px;
+    margin-top: 12px;
+    margin-bottom: 12px;
+    padding: 19px 0;
+    cursor: pointer;
+}
+
+.tavsif {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+    text-align: center;
+    color: #2C3E50;
+    cursor: pointer;
+}
+
+.table__head {
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 129.4%;
+    color: #000000;
+    margin-bottom: 12px;
+}
+
+table, td, th {
+    border: 1px solid;
+    padding: 10px 20px;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 50px;
+  }
+
+  table tr .td {
+      background-color: #E7EFFF;
+  }

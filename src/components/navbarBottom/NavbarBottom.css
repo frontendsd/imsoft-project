@@ -54,3 +54,35 @@
     color: #fff;
     opacity: 0.6;
 }
+
+.footer__title {
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 24px;
+    text-align: center;
+    color: #64697E;
+    padding-bottom: 20px;
+}
+
+/* media */
+
+@media (max-width:320px) {
+    .navbarBottom {
+        background: #374c5f;
+    }
+    .navbarBottom__title {
+        font-weight: 600;
+        font-size: 36px;
+        line-height: 51px;
+        color: #FFFFFF;
+        padding-top: 81px;
+        margin-bottom: 16px;
+    }
+
+    .navbarBottom__info {
+        font-size: 14px;
+    }
+    .navbarBottom__btn {
+        padding: 12px 28px;
+    }
+}

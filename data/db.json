@@ -1,0 +1,108 @@
+ {
+     "market":[
+    {
+        "id":1,
+        "img": "https://images.unsplash.com/photo-1573939843624-b22996c1a31c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1155&q=80",
+        "name": "AdvanRT whel R18",
+        "bolim": "G’ildiraklar bo’limi",
+        "price":"47 450 000 cўм"
+    },
+    {
+        "id":2,
+        "img": "https://images.unsplash.com/photo-1617098883699-c86966416a85?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+        "name": "LIQUIMcar spare partsOLY",
+        "bolim": "Moylar bo’limi",
+        "price":"47 450 000 cўм"
+    },
+    {
+        "id":3,
+        "img": "https://images.unsplash.com/photo-1432462770865-65b70566d673?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+        "name": "PZERO",
+        "bolim": "Shinalar bo’limi",
+        "price":"47 450 000 cўм"
+    },
+    {
+        "id":4,
+        "img": "https://images.unsplash.com/photo-1518306727298-4c17e1bf6942?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=736&q=80",
+        "name": "AdvanRT whel R18",
+        "bolim": "G’ildiraklar bo’limi",
+        "price":"47 450 000 cўм"
+    },
+    {
+        "id":5,
+        "img": "https://images.unsplash.com/photo-1580402427914-a6cc60d7d44f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1177&q=80",
+        "name": "LIQUIMOLY",
+        "bolim": "Moylar bo’limi",
+        "price":"47 450 000 cўм"
+    },
+    {
+        "id":6,
+        "img": "https://images.unsplash.com/photo-1484136540910-d66bb475348d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2153&q=80",
+        "name": "PZERO",
+        "bolim": "Shinalar bo’limi",
+        "price":"47 450 000 cўм"
+    },
+    {
+        "id":7,
+        "img": "https://images.unsplash.com/photo-1593699199342-59b40e08f0ac?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+        "name": "AdvanRT whel R18",
+        "bolim": "G’ildiraklar bo’limi",
+        "price":"47 450 000 cўм"
+    },
+    {
+        "id":8,
+       "img": "https://images.unsplash.com/photo-1590227763209-821c686b932f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+        "name": "LIQUIMOLY",
+        "bolim": "Moylar bo’limi",
+        "price":"47 450 000 cўм"
+    },
+    {
+        "id":9,
+        "img": "https://images.unsplash.com/photo-1567016958860-87d898933af1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+        "name": "PZERO",
+        "bolim": "Shinalar bo’limi",
+        "price":"47 450 000 cўм"
+    },
+    {
+        "id":10,
+        "img": "https://images.unsplash.com/photo-1613214293055-5678e2f6d7de?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+        "name": "AdvanRT whel R18",
+        "bolim": "G’ildiraklar bo’limi",
+        "price":"47 450 000 cўм"
+    },
+    {
+        "id":11,
+        "img": "https://images.unsplash.com/photo-1580402427914-a6cc60d7d44f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1177&q=80",
+        "name": "LIQUIMOLY",
+        "bolim": "Moylar bo’limi",
+        "price":"47 450 000 cўм"
+    },
+    {
+        "id":12,
+        "img": "https://images.unsplash.com/photo-1614770149367-eab2ab247c44?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=627&q=80",
+        "name": "PZERO",
+        "bolim": "Shinalar bo’limi",
+        "price":"47 450 000 cўм"
+    },
+    {
+        "id":13,
+        "img": "https://images.unsplash.com/photo-1625055930842-b9ad84b7facd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+        "name": "AdvanRT whel R18",
+        "bolim": "G’ildiraklar bo’limi",
+        "price":"47 450 000 cўм"
+    },
+    {
+        "id":14,
+        "img": "https://images.unsplash.com/photo-1597137257188-5916d281a9e0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+        "name": "LIQUIMOLY",
+        "bolim": "Moylar bo’limi",
+        "price":"47 450 000 cўм"
+    },
+    {
+        "id":15,
+        "img": "https://images.unsplash.com/photo-1512206818698-0038a42885fa?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=715&q=80",
+        "name": "PZERO",
+        "bolim": "Shinalar bo’limi",
+        "price":"47 450 000 cўм"
+    }
+]}

@@ -35,7 +35,9 @@ function Navbar() {
                             <img src={ring} alt={ring} className="ring" />
                         </li>
                         <li className="accaunt__item">
-                            <img src={korzinka} alt={korzinka} className="korzinka" />
+                            <Link to='/AddCart'>
+                                <img src={korzinka} alt={korzinka}  />
+                            </Link>
                         </li>
                         <li className="accaunt__item">
                             <img src={accaunt} alt={accaunt} className="accaunt" />
